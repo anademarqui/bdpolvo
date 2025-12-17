@@ -1,0 +1,36 @@
+body {
+    background-color:#acc9f4;
+}
+
+h2, h4, hr {
+    color: #426dae; 
+    font-weight: bold;
+}
+
+.menu-lateral {
+    background-color: #426dae;
+    color: #fff;
+    height: 100%;
+    position: fixed;
+}
+
+.menu-lateral .nav-link {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-item:hover {
+    background-color: #c6ddff;
+}
+
+.fa-solid{
+    color: #426dae; 
+}
+
+#pagamentos-tab, #dados-tab {
+    color: #426dae;
+    font-weight: bold;
+}
